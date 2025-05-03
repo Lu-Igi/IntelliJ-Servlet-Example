@@ -1,0 +1,4 @@
+<servlet>
+    <servlet-name>HelloServlet</servlet-name>
+    <servlet-class>org.example.HelloServlet</servlet-class>
+</servlet>
